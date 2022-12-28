@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StoryApps</string>
+    <string name="email">Email</string>
+    <string name="email_hint">Silakan Masukkan Alamat Email Anda</string>
+    <string name="password_hint">Silakan Masukkan Kata Sandi Anda</string>
+    <string name="username_hint">Silakan Masukkan Nama Pengguna Anda</string>
+    <string name="password">Kata Sandi</string>
+    <string name="login">Masuk</string>
+    <string name="register">Registrasi</string>
+    <string name="username">Nama Pengguna</string>
+    <string name="register_error_message">Registrasi Gagal, Silakan Periksa Email Atau Kata Sandi Anda</string>
+    <string name="email_error_message">Alamat email tidak valid</string>
+    <string name="username_error_message">Nama Pengguna Tidak boleh kosong</string>
+    <string name="password_error_message">Kata sandi harus setidaknya 6 karakter</string>
+    <string name="login_error_message">Login Gagal, Silakan Periksa Email Atau Kata Sandi Anda</string>
+    <string name="have_not_an_account">Belum punya akun?</string>
+    <string name="have_an_account">Sudah punya akun?</string>
+    <string name="picture">Gambar</string>
+    <string name="add_story">Tambahkan cerita</string>
+    <string name="new_story">Cerita Baru</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="upload_story">Unggah Cerita</string>
+    <string name="description">Tuliskan Deskripsi</string>
+    <string name="error_picture">Gagal dalam mengambil gambar</string>
+    <string name="error_camera">Gagal membuka kamera</string>
+    <string name="error_permission">Tidak mendapatkan izin</string>
+    <string name="choose_picture">Pilih Foto</string>
+    <string name="created_at">00/00/0000</string>
+    <string name="success_upload_story">Cerita mu telah ditambahkan</string>
+    <string name="failed_upload_story">Gagal membuat cerita, coba lagi</string>
+    <string name="setting">Pengaturan</string>
+    <string name="logout">Keluar</string>
+    <string name="fail_load">coba lagi</string>
+    <string name="title_home">Cerita</string>
+    <string name="title_maps">Peta</string>
+    <string name="title_add_Story">Tambah Cerita</string>
+    <string name="please_activate_location_message">Tolong Aktifkan Lokasi Anda</string>
+    <string name="location_permission_denied">Permintaan Lokasi tidak diberikan</string>
+    <string name="location_permission_denied_action">Ubah Pengaturan</string>
+</resources>

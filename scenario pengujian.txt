@@ -1,0 +1,73 @@
+AddStoryViewModel():
+
+get token successfully 
+- memastikan method repository.getToken() terpanggil.
+- memastikan data tidak null.
+
+Upload File sucessfully
+-Memastikan data tidak null.
+-Memastikan fungsi repository.uploadStory() terpanggil
+-Memastikan mengembalikan hasil success.
+-Memastikan data sesuai dengan yang diharapkan.
+
+Upload File  Failed
+-Memastikan fungsi repository.uploadStory() terpanggil
+-Memastikan data tidak null.
+-Memastikan mengembalikan hasil failure.
+
+MapsViewModelTest()
+
+Get Story with location successfully
+-Memastikan data tidak null.
+-Memastikan fungsi repository.getAllStoryWithLocation() terpanggil
+-Memastikan mengembalikan hasil success.
+-Memastikan data sesuai dengan yang diharapkan.
+
+Get Story with location Failed
+-Memastikan fungsi repository.getAllStoryWithLocation() terpanggil
+-Memastikan data tidak null.
+-Memastikan mengembalikan hasil failure.
+
+StoriesViewModelTest():
+
+Get all stories successfully :
+Memastikan method userRepository.getAllStories() telah dipanggil.
+Memastikan data tidak null.
+
+UserViewModelTest():
+
+Get Registration is sucessfully
+-Memastikan data tidak null.
+-Memastikan fungsi repository.register() terpanggil.
+-Memastikan mengembalikan hasil success.
+-Memastikan data sesuai dengan yang diharapkan.
+
+Get Registration is Failed
+-Memastikan method repository.register() terpanggil.
+-Memastikan data tidak null..
+-Memastikan mengembalikan hasil failure.
+
+Get Login is sucessfully
+-Memastikan data tidak null
+-Memastikan fungsi repository.login() terpanggil
+-Memastikan mengembalikan hasil success.
+-Memastikan data sesuai dengan yang diharapkan.
+
+Get Login is Failed
+-Memastikan method repository.login() terpanggil.
+-Memastikan data tidak null.
+-Memastikan mengembalikan hasil failure.
+
+get save token successfully
+- memastikan method repository.saveToken() terpanggil.
+- memastikan data tidak null.
+
+get token successfully
+- memastikan method repository.getToken() terpanggil.
+- memastikan data tidak null.
+
+delete token is successfully
+- memastikan method repository.deleteToken() terpanggil.
+
+
+

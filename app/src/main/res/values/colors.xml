@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="mustard">#E3C770</color>
+    <color name="garuda">#FECD70</color>
+    <color name="macaroni">#FFAE6D</color>
+    <color name="wheat">#F3E0B5</color>
+    <color name="navy">#182747</color>
+    <color name="brown">#562B08</color>
+    <color name="green">#647E68</color>
+    <color name="grey">#D8D8D8</color>
+    <color name="hint">#757575</color>
+    <color name="purple_700">#FF3700B3</color>
+    
+
+
+</resources>
